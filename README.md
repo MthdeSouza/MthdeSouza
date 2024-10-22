@@ -6,14 +6,6 @@
   <p> 👨‍💻 I'm a Pl Front-end Developer </p>
   <p> 📧 matheus.alex@hotmail.com </p>
 </div>
-
-<div align="center">
-  <a href="https://github.com/MthdeSouza">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MthdeSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthdeSouza&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
 <h2> :hammer_and_wrench: Stacks </h2>
 
 <h2> Core </h2>
