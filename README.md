@@ -38,7 +38,6 @@
 
 <h2> Back End </h2>
 <section>  
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://user-images.githubusercontent.com/98183352/197245910-96b870c8-ef6a-4879-bfe2-4b4afb392fe0.png" alt="Mongoose" />  
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
