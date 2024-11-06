@@ -99,5 +99,7 @@
   
 <h2> Where to find me </h2>
 <section> 
-  <a href="https://www.linkedin.com/in/matheusdsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/matheusdsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+   <a href="https://dev-mthsouza.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/my_website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>   
+  
 </section>
