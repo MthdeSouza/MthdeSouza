@@ -4,7 +4,6 @@
 
 <div>
   <p> 👨‍💻 I'm a Sr Front-end Developer </p>
-  <p> 📧 matheus.alex@hotmail.com </p>
 </div>
 <h2> :hammer_and_wrench: Stacks </h2>
 
